@@ -1,7 +1,6 @@
 import pandas as pd
 import glob
 
-
 result = pd.DataFrame([])
 file_names = glob.glob("abc*")
 
